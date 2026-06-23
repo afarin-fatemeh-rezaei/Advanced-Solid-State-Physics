@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Chrysoberyl'
+_chemical_formula_sum 'Al₁.₉₈Cr₀.₀₂BeO₄'
+_cell_length_a 9.4082
+_cell_length_b 5.4790
+_cell_length_c 4.4288
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 228.294
+_symmetry_space_group_name_H-M 'P n m a'
+_exptl_crystal_density_diffrn 3.709
+
+loop_
+_space_group_symop_operation_xyz
+'x,y,z'
+'x,1/2-y,z'
+'-x,1/2+y,-z'
+'1/2-x,1/2+y,1/2+z'
+'1/2+x,1/2-y,1/2-z'
+'1/2+x,y,1/2-z'
+'1/2-x,-y,1/2+z'
+'-x,-y,-z'
+
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Al1 0.00000 0.00000 0.00000 1.00000 0.00349
+Al2 0.27282 0.25000 -0.00503 0.98000 0.00355
+Cr2 0.27282 0.25000 -0.00503 0.02000 0.00355
+Be 0.09289 0.25000 0.43360 1.00000 0.00530
+O1 0.09022 0.25000 0.78822 1.00000 0.00332
+O2 0.43316 0.25000 0.24167 1.00000 0.00370
+O3 0.16324 0.01554 0.25728 1.00000 0.00401
+
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 0.00388 0.00286 0.00346 -0.00037 0.00006 0.00000
+Al2 0.00335 0.00364 0.00366 0.00000 -0.00008 0.00000
+Cr2 0.00335 0.00364 0.00366 0.00000 -0.00008 0.00000
+Be 0.00630 0.00540 0.00420 0.00000 0.00000 0.00000
+O1 0.00397 0.00339 0.00260 0.00000 -0.00010 0.00000
+O2 0.00366 0.00387 0.00365 0.00000 -0.00041 0.00000
+O3 0.00425 0.00392 0.00387 0.00030 -0.00029 0.00031
